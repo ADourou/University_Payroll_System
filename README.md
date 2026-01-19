@@ -15,9 +15,9 @@ This application automates personnel management and complex compensation logic, 
 
 ### 🛠️ Tech Stack
 
-* [cite_start]**Language:** Java 
-* [cite_start]**Database:** MySQL
-* [cite_start]**Interface:** Java Swing 
+* **Language:** Java 
+* **Database:** MySQL
+* **Interface:** Java Swing 
 
 
 *Developed for the Course HY-360: Files and Databases.*
